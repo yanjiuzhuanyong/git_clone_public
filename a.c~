@@ -12,8 +12,5 @@ merge test
 
 rr
 
-<<<<<<< HEAD
 git rebase in matser conflict
-=======
 git rebase in matser
->>>>>>> temp new
