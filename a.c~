@@ -11,3 +11,9 @@ new
 merge test
 
 rr
+
+<<<<<<< HEAD
+git master rebase change commit222
+=======
+git new branch rebase change 2
+>>>>>>> new branch change2
